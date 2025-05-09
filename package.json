@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@mastra/core": "^0.9.3",
+    "@mastra/memory": "^0.3.3",
     "duckdb": "^1.2.1"
   }
 }
